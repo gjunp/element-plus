@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@element-plus/build-constants": "^0.0.1",
-    "@pnpm/find-workspace-packages": "^4.0.16",
+    "@pnpm/find-workspace-packages": "^6.0.6",
     "@pnpm/logger": "^4.0.0",
     "@rollup/plugin-commonjs": "^22.0.1",
     "@rollup/plugin-node-resolve": "^13.3.0",
@@ -28,7 +28,7 @@
     "esbuild": "^0.14.47",
     "fast-glob": "^3.2.11",
     "fs-extra": "^10.1.0",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "lodash": "^4.17.21",
     "rollup": "^2.75.7",
     "rollup-plugin-esbuild": "^4.9.1",
